@@ -25,3 +25,10 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
+# weight files
+*.weights
+
+# build files
+*.a
+*.so
